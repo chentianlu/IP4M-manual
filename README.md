@@ -5,7 +5,7 @@ With the rapid evolution and broad application of metabolomics, there is greater
 
 Administrator privileges are required for IP4M launching.
 
-Direct link for software setup files: https://github.com/IP4M
+Direct link for software setup files: https://github.com/IP4M; http://ip4m.cn
 
 Contact: wjia@cc.hawaii.edu; chentianlu@sjtu.edu.cn;
 
